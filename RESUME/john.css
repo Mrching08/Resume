@@ -1,0 +1,67 @@
+.john {
+    width: 125px;
+    border: 62px;
+    float: left;
+    margin-right: 30px;
+    padding-left: 3ch;
+    padding-top: -1ch;
+        
+}
+.name {
+    margin-top: 60px;
+    margin-bottom: 0;
+    padding-top: 20px;
+}
+.place {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.number {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}.mail {
+    margin-top: 0px;
+    margin-bottom: 60px;
+}
+.obj {
+    margin-bottom: 0px;
+      
+}
+.una {
+    margin-top: 5px;
+    font-family: arial;
+    font-size: 15px;
+     margin-left: 25px;
+      
+}
+.qua {
+    margin-bottom: 0px;
+}
+.q {
+    margin-top: 5px;
+    font-family: arial; 
+    font-size: 15px;
+}
+.personal {
+     margin-top: -15px;
+}
+.Talisay {
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.asian {
+    margin-left: 25px;
+}
+.high {
+    margin-left: 25px;
+}
+.elem {
+    margin-left: 25px;
+}
+.per {
+    margin-top: 5px;
+    font-family: arial; 
+    font-size: 16px;
+}
+
+
